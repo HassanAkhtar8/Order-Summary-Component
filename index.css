@@ -6,7 +6,7 @@
 body{
  background: url("images/pattern-background-desktop.svg");
  width: 100vw;
- height: 100vh;
+ min-height: 100vh;
  display: flex;
  align-items: center;
  justify-content: center;
